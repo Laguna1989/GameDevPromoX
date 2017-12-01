@@ -2,3 +2,4 @@
 
 cd /home/gamedevpromorunner/GameDevPromoX/
 python test.py
+touch IDidRun

@@ -1,10 +1,10 @@
+import random
 import tweepy
 from credentials import *
 from tweet import *
 from alltweets import at
 
 
-printTweetToConsole(at[0])
 
 def PostTweet(t):
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -12,6 +12,10 @@ def PostTweet(t):
     api = tweepy.API(auth)
     api.update_with_media(t.imageName, t.status)
 
+
+tw = random.choice(at)
+printTweetToConsole(tw)
+PostTweet(tw)
 
 
 
