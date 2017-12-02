@@ -1,5 +1,6 @@
 import random
 import tweepy
+import datetime
 from credentials import *
 from tweet import *
 from alltweets import at
@@ -14,9 +15,7 @@ def PostTweet(t):
 
 
 tw = random.choice(at)
+if datetime.datetime.today().weekday() == 5:
+    tw.status += " #screenshotsaturday"
 printTweetToConsole(tw)
 PostTweet(tw)
-
-
-
-
