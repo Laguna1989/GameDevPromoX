@@ -10,3 +10,6 @@ at.append(Tweet("#minimalistic #towerdefense #td created in one hour #1hgj defen
 at.append(Tweet("Complete and utter nonsense is a fast paced #arcade #indiegame created for #1hgj http://gamejolt.com/games/complete-nonsense/232383", "images/nonsense.gif"))
 at.append(Tweet("Let's get this started: Play Pneumochute: #pixelart by @xXBloodyOrange, best overall for Gameinfection Hackathon #indiegame https://gamejolt.com/games/pneumochute/287471", "images/pneumochute_jumpdown.gif"))
 at.append(Tweet("How good is your reaction? How fast can you click? #indiedev #indiegame: Mouse Click https://gamejolt.com/games/mouseclick/173964", "images/reaction.gif"))
+at.append(Tweet("Evade the falling blocks! #minimal #indiegame #1hgj #gamedev https://gamejolt.com/games/theroom/276326", "images/room.gif"))
+at.append(Tweet("Two player #arcade #couch action in Lords of Ice and Fire! https://gamejolt.com/games/lords-of-ice-and-fire/102409 \n#haxe #haxeflixel #gamedev #indiedev #indiegame #2d #pixelart", "images/lordsOfIceAndFire.gif"))
+at.append(Tweet("No matter how cool you are, you will never be as cool as those penguins who take part in an epic fight between Ice and Fire https://gamejolt.com/games/lords-of-ice-and-fire/102409 ", "images/lords_penguins.gif"))
