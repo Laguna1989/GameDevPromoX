@@ -29,3 +29,14 @@ at.append(Tweet("No matter how cool you are, you will never be as cool as those 
 at.append(Tweet("#TowederDefense #TD #indiegame Archer's Defense https://gamejolt.com/games/archersdefense/300976 . It was created using #haxe #haxeflixel", "images/archers1.png"))
 at.append(Tweet("#1hgj and #LDJam #LDJam40 entry Archer's Defense https://gamejolt.com/games/archersdefense/300976 \n#gamedev #indiedev #indeigame", "images/archers1.gif"))
 at.append(Tweet("How long can you survive in Archer's Defense https://gamejolt.com/games/archersdefense/300976 #TowerDefense #indiegame #LDJam #1hgj", "images/archers2.png"))
+
+at.append(Tweet("#Alakajam Entry alchemy guy #indiedev #indiegame https://gamejolt.com/games/alchemyGuy/285567", "images/alaka.jpg"))
+at.append(Tweet("Gather ingredients, bring them to the altar, mix up powerful potions -- do what alchemy guys do! https://gamejolt.com/games/alchemyGuy/285567\n#indiegame #indiedev #gamedev #unity3d", "images/alaka2.png"))
+
+at.append(Tweet("You crashed down on a foreign planet and have to survive. You need to watch on your fatigue, hunger and warmth levels. https://runvs.io/Games/deansworld", "images/deans2.png"))
+at.append(Tweet("To improve your chance of survival, you can gather resources and use them to craft useful items. https://runvs.io/Games/deansworld", "images/deans.gif"))
+
+at.append(Tweet("#clicker game GoldClicker #indiedev #gamedev #indiegame https://gamejolt.com/games/GoldClicker/253042", "images/goldclicker.gif"))
+
+at.append(Tweet("Manage your hotel to the biggest skyscraper in town! #indiegame https://gamejolt.com/games/hotel-one-room/217223", "images/hortel_menu.gif"))
+at.append(Tweet("Hotel management game https://runvs.io/Games/hoteloneroom #gamedev #indiedev #indiegame #LDJam #LDJam37", "images/hortel2.png"))
