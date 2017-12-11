@@ -38,5 +38,9 @@ at.append(Tweet("To improve your chance of survival, you can gather resources an
 
 at.append(Tweet("#clicker game GoldClicker #indiedev #gamedev #indiegame https://gamejolt.com/games/GoldClicker/253042", "images/goldclicker.gif"))
 
-at.append(Tweet("Manage your hotel to the biggest skyscraper in town! #indiegame https://gamejolt.com/games/hotel-one-room/217223", "images/hortel_menu.gif"))
+at.append(Tweet("Manage your hotel to the biggest skyscraper in town! #indiegame https://runvs.itch.io/hotel-one-room #indiedev", "images/hortel_menu.gif"))
 at.append(Tweet("Hotel management game https://runvs.io/Games/hoteloneroom #gamedev #indiedev #indiegame #LDJam #LDJam37", "images/hortel2.png"))
+
+at.append(Tweet("Splatoon meets 2D: Play #indiegame Splat2D on https://gamejolt.com/games/Splat2D/279966", "images/splat2d1.png"))
+at.append(Tweet("ready, fight, go! Fight up to four friends in 2d #indiegame Splat2D #gamedev https://runvs.itch.io/splat2d", "images/splat2d.gif"))
+at.append(Tweet("Local couch #Multiplayer #indiegame Splat2D https://runvs.itch.io/splat2d", "images/splat2d2.png"))
