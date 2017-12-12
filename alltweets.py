@@ -1,6 +1,6 @@
 from tweet import *
 at= []
-at.append(Tweet("Play my super challenging rhythm game Rhythmopolis on https://gamejolt.com/games/Rhythmopolis/295396 #gamedev #indiedev #indiegame", "images/rhythmopolis_1.png"))
+#at.append(Tweet("Play my super challenging rhythm game Rhythmopolis on https://gamejolt.com/games/Rhythmopolis/295396 #gamedev #indiedev #indiegame", "images/rhythmopolis_1.png"))
 
 at.append(Tweet("#ThisIsMadness \nNo, This is bunny! https://gamejolt.com/games/feedthebunny/300422  #gamedev #indiedev", "images/feedthebunny.png"))
 
@@ -46,3 +46,7 @@ at.append(Tweet("ready, fight, go! Fight up to four friends in 2d #indiegame Spl
 at.append(Tweet("Local couch #Multiplayer #indiegame Splat2D https://runvs.itch.io/splat2d", "images/splat2d2.png"))
 
 at.append(Tweet("nyan cat is the best! https://runvs.io/Games/nyanourhero #indedev #nyancat", "images/nyan.gif"))
+
+at.append(Tweet("You are leading the Roman legions against the brave enemy. Only your knowledge can bring victory! http://gamejolt.com/games/the-camp-commander/121201 #indiedev #indiegame", "images/thecampcommander.png"))
+
+at.append(Tweet("We have tried Space marines, but they were useless. Now it's time for Space Tanks! https://gamejolt.com/games/space-tanks/64509  #indiedev #indiegame", "images/spacetanks.gif"))
