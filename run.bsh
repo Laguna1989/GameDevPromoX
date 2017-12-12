@@ -1,5 +1,7 @@
 #!/bin/bash
 
 cd /home/gamedevpromorunner/GameDevPromoX/
+# get latest changes from repository
+git pull    
+# perform awesome twitter actions
 python test.py
-#touch IDidRun
