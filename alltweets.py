@@ -44,3 +44,5 @@ at.append(Tweet("Hotel management game https://runvs.io/Games/hoteloneroom #game
 at.append(Tweet("Splatoon meets 2D: Play #indiegame Splat2D on https://gamejolt.com/games/Splat2D/279966", "images/splat2d1.png"))
 at.append(Tweet("ready, fight, go! Fight up to four friends in 2d #indiegame Splat2D #gamedev https://runvs.itch.io/splat2d", "images/splat2d.gif"))
 at.append(Tweet("Local couch #Multiplayer #indiegame Splat2D https://runvs.itch.io/splat2d", "images/splat2d2.png"))
+
+at.append(Tweet("nyan cat is the best! https://runvs.io/Games/nyanourhero #indedev #nyancat", "images/nyan.gif"))
