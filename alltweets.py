@@ -50,3 +50,5 @@ at.append(Tweet("nyan cat is the best! https://runvs.io/Games/nyanourhero #inded
 at.append(Tweet("You are leading the Roman legions against the brave enemy. Only your knowledge can bring victory! http://gamejolt.com/games/the-camp-commander/121201 #indiedev #indiegame", "images/thecampcommander.png"))
 
 at.append(Tweet("We have tried Space marines, but they were useless. Now it's time for Space Tanks! https://gamejolt.com/games/space-tanks/64509  #indiedev #indiegame", "images/spacetanks.gif"))
+
+at.append(Tweet("body count: game about the 2013 lampedusa incident https://runvs.io/Games/bodycount #gamedev #indiedev #indiegame", "images/bodycount2.png"))
