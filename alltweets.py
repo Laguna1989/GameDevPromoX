@@ -52,3 +52,5 @@ at.append(Tweet("You are leading the Roman legions against the brave enemy. Only
 at.append(Tweet("We have tried Space marines, but they were useless. Now it's time for Space Tanks! https://gamejolt.com/games/space-tanks/64509  #indiedev #indiegame", "images/spacetanks.gif"))
 
 at.append(Tweet("body count: game about the 2013 lampedusa incident https://runvs.io/Games/bodycount #gamedev #indiedev #indiegame", "images/bodycount2.png"))
+
+at.append(Tweet("Play the result of the ultimative #gamedev challenge: Create 6 games in 8 hours: https://runvs.io/Games/6gamesin8hours  #indiedev #indiegame", "images/6gamesin8hours.png"))
