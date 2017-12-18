@@ -57,3 +57,9 @@ at.append(Tweet("Play the result of the ultimative #gamedev challenge: Create 6 
 
 at.append(Tweet("Here is how a snowball factory works: https://gamejolt.com/games/idlesnowflakes/305052 #indiedev #indiegame #1hgj ", "images/idlesnowflake.png"))
 at.append(Tweet("For #1hgj I have created an idle game about snowballs: https://gamejolt.com/games/idlesnowflakes/305052 #indiedev #indiegame", "images/idlesnowflake.gif"))
+
+at.append(Tweet("You've been trapped beneath the surface in Scofield Mine. Find a way out of it! #indiegame https://runvs.io/Games/escapingscofieldmine", "images/scofield1.png"))
+at.append(Tweet("An old #LDJam game with #retro #pixelart #gamedev https://runvs.io/Games/escapingscofieldmine", "images/scofield.png"))
+
+at.append(Tweet("Destroy helicopters in juicy retro style! https://runvs.io/Games/respawnattack", "images/respawnattack.png"))
+at.append(Tweet("Respawn Attack! Gameplay video https://www.youtube.com/watch?v=j2_ZoO1HK64 Play #indiegame at https://gamejolt.com/games/respawn-attack/29786", "images/respawnattack2.png"))
