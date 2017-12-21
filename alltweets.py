@@ -64,4 +64,6 @@ at.append(Tweet("An old #LDJam game with #retro #pixelart #gamedev https://runvs
 at.append(Tweet("Destroy helicopters in juicy retro style! https://runvs.io/Games/respawnattack", "images/respawnattack.png"))
 at.append(Tweet("Respawn Attack! Gameplay video https://www.youtube.com/watch?v=j2_ZoO1HK64 Play #indiegame at https://gamejolt.com/games/respawn-attack/29786", "images/respawnattack2.png"))
 
-at.append(Tweet("Snake on a hexagon grid: https://runvs.io/Games/hexagonsnake", "images/hexagonsnake.png"))
+at.append(Tweet("Snake on a hexagon grid: https://runvs.io/Games/hexagonsnake #indiedev ", "images/hexagonsnake.png"))
+
+at.append(Tweet("Epic thunderstorm monkey fight with explosive bananas https://runvs.io/Games/monkeybananawars #indiedev #indiegame #pixelart", "images/mbw.gif"))
