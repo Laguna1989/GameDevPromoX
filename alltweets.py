@@ -67,3 +67,8 @@ at.append(Tweet("Respawn Attack! Gameplay video https://www.youtube.com/watch?v=
 at.append(Tweet("Snake on a hexagon grid: https://runvs.io/Games/hexagonsnake #indiedev ", "images/hexagonsnake.png"))
 
 at.append(Tweet("Epic thunderstorm monkey fight with explosive bananas https://runvs.io/Games/monkeybananawars #indiedev #indiegame #pixelart", "images/mbw.gif"))
+
+at.append(Tweet("Mario has eaten his fire blossom, so he shoots poor goombas (you) https://runvs.io/Games/badmario #indiegame", "images/badmario2.png"))
+at.append(Tweet("As a poor and small goomba, mario and his fire blossom is your worst enemy: https://runvs.io/Games/badmario #indiegame", "images/badmario1.png"))
+
+at.append(Tweet("The chef of your high quality restaurant is sick, so you need to arrange the menu yourself! https://runvs.io/Games/menumixer #indiegame #gamedev #indiedev #1hgj", "images/menumixer.png"))
