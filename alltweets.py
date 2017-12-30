@@ -72,3 +72,5 @@ at.append(Tweet("Mario has eaten his fire blossom, so he shoots poor goombas (yo
 at.append(Tweet("As a poor and small goomba, mario and his fire blossom is your worst enemy: https://runvs.io/Games/badmario #indiegame", "images/badmario1.png"))
 
 at.append(Tweet("The chef of your high quality restaurant is sick, so you need to arrange the menu yourself! https://runvs.io/Games/menumixer #indiegame #gamedev #indiedev #1hgj", "images/menumixer.png"))
+
+at.append(Tweet("Happy new year #1hgj! https://gamejolt.com/games/boom/308149", "images/boom.gif"))
