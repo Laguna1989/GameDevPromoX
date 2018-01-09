@@ -74,3 +74,6 @@ at.append(Tweet("As a poor and small goomba, mario and his fire blossom is your 
 at.append(Tweet("The chef of your high quality restaurant is sick, so you need to arrange the menu yourself! https://runvs.io/Games/menumixer #indiegame #gamedev #indiedev #1hgj", "images/menumixer.png"))
 
 at.append(Tweet("Happy new year #1hgj! https://gamejolt.com/games/boom/308149", "images/boom.gif"))
+at.append(Tweet("This was my new years greeting to all gamedevs: https://gamejolt.com/games/boom/308149 #gamedev #indiedev #indiegame", "images/boom.png"))
+
+at.append(Tweet("I made a bridge builder clone in one hour for #1hgj : https://gamejolt.com/games/brokenbridge/309860 #indiegame", "images/brokenbridge.png"))
