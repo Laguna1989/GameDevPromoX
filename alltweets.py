@@ -55,6 +55,7 @@ at.append(Tweet("body count: game about the 2013 lampedusa incident https://runv
 
 at.append(Tweet("Play the result of the ultimative #gamedev challenge: Create 6 games in 8 hours: https://runvs.io/Games/6gamesin8hours  #indiedev #indiegame", "images/6gamesin8hours.png"))
 
+at.append(Tweet("Here is how a snowball factory works: https://gamejolt.com/games/idlesnowflakes/305052 #indiedev #indiegame #1hgj ", "images/idle_snowflake2.gif"))
 at.append(Tweet("Here is how a snowball factory works: https://gamejolt.com/games/idlesnowflakes/305052 #indiedev #indiegame #1hgj ", "images/idlesnowflake.png"))
 at.append(Tweet("For #1hgj I have created an idle game about snowballs: https://gamejolt.com/games/idlesnowflakes/305052 #indiedev #indiegame", "images/idlesnowflake.gif"))
 
