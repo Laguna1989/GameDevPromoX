@@ -78,3 +78,5 @@ at.append(Tweet("Happy new year #1hgj! https://gamejolt.com/games/boom/308149", 
 at.append(Tweet("This was my new years greeting to all gamedevs: https://gamejolt.com/games/boom/308149 #gamedev #indiedev #indiegame", "images/boom.png"))
 
 at.append(Tweet("I made a bridge builder clone in one hour for #1hgj : https://gamejolt.com/games/brokenbridge/309860 #indiegame", "images/brokenbridge.png"))
+
+at.append(Tweet("You are the royal spy in Ethiopia. Your cover was blown. You need to get through the hostile city to your next safehouse! https://gamejolt.com/games/desertagent/311330  #indiegame", "images/desertagent.png"))
