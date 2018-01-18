@@ -80,3 +80,9 @@ at.append(Tweet("This was my new years greeting to all gamedevs: https://gamejol
 at.append(Tweet("I made a bridge builder clone in one hour for #1hgj : https://gamejolt.com/games/brokenbridge/309860 #indiegame", "images/brokenbridge.png"))
 
 at.append(Tweet("You are the royal spy in Ethiopia. Your cover was blown. You need to get through the hostile city to your next safehouse! https://gamejolt.com/games/desertagent/311330  #indiegame", "images/desertagent.png"))
+
+at.append(Tweet("Every time you make a typo, the errorists win. https://runvs.io/Games/typo #indiegame", "images/typo.gif"))
+
+at.append(Tweet("The satanic evil snowmen are attacking. You are doomed. Your end is nigh. The only thing you can do - make it hard for them. https://runvs.io/Games/frenzysnowmansmasher", "images/fss.gif"))
+
+at.append(Tweet("Play #LDJam entry Frenzy Snowman Smasher: http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=29172", "images/fss.png"))
