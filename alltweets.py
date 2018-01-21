@@ -86,3 +86,6 @@ at.append(Tweet("Every time you make a typo, the errorists win. https://runvs.io
 at.append(Tweet("The satanic evil snowmen are attacking. You are doomed. Your end is nigh. The only thing you can do - make it hard for them. https://runvs.io/Games/frenzysnowmansmasher", "images/fss.gif"))
 
 at.append(Tweet("Play #LDJam entry Frenzy Snowman Smasher: http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=29172", "images/fss.png"))
+
+at.append(Tweet("Play Moon lander #indiegame https://runvs.io/Games/moonlander", "images/moonlander.gif"))
+at.append(Tweet("Most correct #physics simulation of a moon landing ever done in #1hgj https://runvs.io/Games/moonlander", "images/moonlander2.gif"))
