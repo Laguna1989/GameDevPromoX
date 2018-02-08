@@ -91,3 +91,8 @@ at.append(Tweet("Play Moon lander #indiegame https://runvs.io/Games/moonlander",
 at.append(Tweet("Most correct #physics simulation of a moon landing ever done in #1hgj https://runvs.io/Games/moonlander", "images/moonlander2.gif"))
 
 at.append(Tweet("Can you create a game about time travel in only one hour? Yes you can! #1hgj #gamedev #indiedev https://gamejolt.com/games/timetraveller/314697", "images/timetraveller.png"))
+
+at.append(Tweet("The Musicians are required on stage! #1hgj #indiedev https://runvs.io/Games/singingfrogs", "images/singingfrogs.gif"))
+
+at.append(Tweet("#1hgj Frog-chestra quack quack #indiedev https://runvs.io/Games/singingfrogs", "images/singingFrogs.png"))
+
