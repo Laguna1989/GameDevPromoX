@@ -96,3 +96,5 @@ at.append(Tweet("The Musicians are required on stage! #1hgj #indiedev https://ru
 
 at.append(Tweet("#1hgj Frog-chestra quack quack #indiedev https://runvs.io/Games/singingfrogs", "images/singingFrogs.png"))
 
+at.append(Tweet("up to four players can fight as little robots in our last man standing couch #multiplayer #indiedev game for #alakajam https://alakajam.com/2nd-alakajam/151/invisimines/", "images/invisimine.png"))
+
