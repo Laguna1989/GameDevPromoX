@@ -98,3 +98,4 @@ at.append(Tweet("#1hgj Frog-chestra quack quack #indiedev https://runvs.io/Games
 
 at.append(Tweet("up to four players can fight as little robots in our last man standing couch #multiplayer #indiedev game for #alakajam https://alakajam.com/2nd-alakajam/151/invisimines/", "images/invisimine.png"))
 
+at.append(Tweet("Skyrim's lockpicking minigame was quite fun. Here is my #1hgj take on that: https://gamejolt.com/games/lockpicker/327015 #gamejolt #indiegame #haxe #haxeflixel #indiedev ", "images/lockicker2.gif"))
