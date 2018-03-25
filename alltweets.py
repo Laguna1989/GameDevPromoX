@@ -101,3 +101,6 @@ at.append(Tweet("up to four players can fight as little robots in our last man s
 at.append(Tweet("Skyrim's lockpicking minigame was quite fun. Here is my #1hgj take on that: https://gamejolt.com/games/lockpicker/327015 #gamejolt #indiegame #haxe #haxeflixel #indiedev ", "images/lockicker2.gif"))
 
 at.append(Tweet("When doing #1hgj, you need to focus on one single mechanic: lockpicking as seen in skyrim https://gamejolt.com/games/lockpicker/327015 #gamejolt #indiegame #haxe #haxeflixel #indiedev", "images/lockpicker.png"))
+
+at.append(Tweet("Falling glasses break so easily: https://gamejolt.com/games/shatteredGlass/328673 #indiegame #1hgj #haxe", "images/sg1.png"))
+at.append(Tweet("Another #1hgj #indiegame created with #haxe https://gamejolt.com/games/shatteredGlass/328673  ", "images/sg2.png"))
