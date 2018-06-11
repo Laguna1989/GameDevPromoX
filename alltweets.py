@@ -104,3 +104,5 @@ at.append(Tweet("When doing #1hgj, you need to focus on one single mechanic: loc
 
 at.append(Tweet("Falling glasses break so easily: https://gamejolt.com/games/shatteredGlass/328673 #indiegame #1hgj #haxe", "images/sg1.png"))
 at.append(Tweet("Another #1hgj #indiegame created with #haxe https://gamejolt.com/games/shatteredGlass/328673  ", "images/sg2.png"))
+
+at.append(Tweet("Unexpected combo finder, created for #1hgj . Find the word that does not match with the others. #indiegame #indiedev #haxe https://gamejolt.com/games/unexpectedCombo/345482", "images/unexpectedCombo.png"))
