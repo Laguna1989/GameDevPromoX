@@ -110,3 +110,5 @@ at.append(Tweet("Unexpected combo finder, created for #1hgj . Find the word that
 at.append(Tweet("Ever wondered how a nuclear reactor/nuclear bomb works? My #1hgj #indiegame shows that: #haxe https://drive.google.com/file/d/1XlFNMrfBButJuA1DMeidNrVyoINpUR2Z/view?usp=sharing", "images/neutrons.gif"))
 
 at.append(Tweet("Can you make a jump and run in one hour? #gamedev Yes you can! #1hgj #indiegame #haxe https://gamejolt.com/games/elementhunter/366149", "images/elementhunter.png"))
+
+at.append(Tweet("A game about German border patrol in 2020: https://runvs.io/Games/borderpatrol #indiegame #gamedev #1hgj", "images/borderpatrol.png"))
