@@ -121,3 +121,6 @@ at.append(Tweet("Falling from the clouds #gamejam #1hgj #indiegame #haxe #html5 
 
 at.append(Tweet("How important is work/life balance to you? #gamejam #1hgj #indiegame #haxe #html5 #linux  https://gamejolt.com/games/dailylife/378656", "images/dailylife.gif"))
 at.append(Tweet("I proudly announce: the daily-life-simulator 2018  #haxe #indiedev #gamedev #indiegame  https://runvs.itch.io/daily-life", "images/dailylife.gif"))
+
+at.append(Tweet("Santa has lots of work to do #gamejam #1hgj #indiegame #gamedev #win #linux https://gamejolt.com/games/santamcdroplord/386259", "images/santa.gif"))
+at.append(Tweet("Help Santa McDroplord to deliver all the presents  https://gamejolt.com/games/santamcdroplord/386259 #indiedev #gamedev #indiegame #1hgj", "images/santa.png"))
