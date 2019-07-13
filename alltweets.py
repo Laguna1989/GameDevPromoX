@@ -124,3 +124,7 @@ at.append(Tweet("I proudly announce: the daily-life-simulator 2018  #haxe #indie
 
 at.append(Tweet("Santa has lots of work to do #gamejam #1hgj #indiegame #gamedev #win #linux https://gamejolt.com/games/santamcdroplord/386259", "images/santa.gif"))
 at.append(Tweet("Help Santa McDroplord to deliver all the presents  https://gamejolt.com/games/santamcdroplord/386259 #indiedev #gamedev #indiegame #1hgj", "images/santa.png"))
+
+at.append(Tweet("The floor is lava! https://runvs.io/Games/grounded #frankengamejam #frankengamejam2019 #indiedev #gamedev #indiegame", "images/grounded1.gif"))
+at.append(Tweet("Pinky and Bluetooth have been grounded and now play with fingerguns https://runvs.io/Games/grounded #frankengamejam2019 #indiedev #gamedev #indiegame", "images/grounded2.gif"))
+at.append(Tweet("Awesome Menu screen by @xXBloodyOrange https://runvs.io/Games/grounded #frankengamejam2019 #indiedev #gamedev #indiegame", "images/grounded3.png"))
